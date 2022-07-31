@@ -1,6 +1,8 @@
 # Talk-Licious
 
-Utilized
-- Google Firebase Android project services
-- Amazon AWS SNS Topics, SQS Queues, and Lambda Functions that use SNS points to invoke the Firebase Android services which are connected with the Android Studio Project. 
-- Used Android Loaders, Fragments, Lifecycle methods, and implemented **_enter all classes/packages/interfaces/services used_**
+**Code is being uploaded right now**
+
+Developed a Full-Stack Web chatting app that allows Gmail logins, secured chats, chat timestamps, and follows community guidelines. 
+Used Google Firebase and Firebase Storage Hooks to deploy Talk-Licious on a React.js framework using CreateReactApp build tools.
+
+
